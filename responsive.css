@@ -1,0 +1,36 @@
+@media (max-width: 767px) {
+    /* Styles for Mobile */
+    h1{
+        font-size: 1.4rem;
+        
+    }
+
+    .choices{
+        gap: 0rem;
+        margin-top: 2rem;
+    }
+
+    img{
+        height: 80px;
+        width: 80px;
+    }
+
+    .score-board{
+        font-size: 1.3rem;
+        gap: 3rem;
+    }
+
+    #user-score, #comp-score{
+        font-size: 3rem;
+    }
+
+    .msg-container{
+        margin-bottom: 2.5rem;
+    }
+
+    #msg{
+        font-size: 1.1rem;
+        padding: 1.5rem;
+    }
+}
+
