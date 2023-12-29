@@ -1,15 +1,11 @@
-## Legal Solutions
+## Rock Paper Scissors Game
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/legal-solutions)
-![GitHub stars](https://img.shields.io/github/stars/rockyhaque/legal-solutions?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rockyhaque/legal-solutions?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/rock-paper-scissors)
+![GitHub stars](https://img.shields.io/github/stars/rockyhaque/rock-paper-scissors?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rock-paper-scissors?style=social)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/rocky_haque10?style=social)](https://twitter.com/rocky_haque10)
 [![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rockyhaque/)](https://www.linkedin.com/in/rockyhaque/)
-
-# Legal Solutions - Empowering You with Legal Knowledge
-
-Welcome to the Legal Solutions repository! This repository contains the code and assets for Legal Solutions, an empowering website designed to provide users with valuable legal knowledge and resources. The website is live and can be accessed at [https://rockyhaque.github.io/legal-solutions/](https://rockyhaque.github.io/legal-solutions/).
 
 ## Table of Contents
 
@@ -17,28 +13,48 @@ Welcome to the Legal Solutions repository! This repository contains the code and
 - [Features](#features)
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
 
 ## Introduction
 
-Legal Solutions is your go-to platform for understanding and navigating the complex world of legal matters. We believe that access to legal knowledge is a fundamental right, and our website is designed to empower you with the information you need to make informed decisions.
+Welcome to the Rock Paper Scissors game repository! This project is a simple yet engaging game that allows you to play the classic Rock Paper Scissors against the computer.
 
 ## Features
 
-- **Legal Articles:** In-depth articles covering various legal topics.
-- **Legal FAQs:** Answers to common legal questions in plain language.
-- **User-Friendly Interface:** Easy navigation and readability for everyone.
-- **Responsive Design:** Accessible on all devices, from desktops to mobiles.
+- **User vs. Computer:** Test your luck and strategy against the computer.
+- **Randomized Choices:** The computer's choices are randomized for unpredictability.
+- **Score Tracking:** Keep track of your wins, losses, and ties.
+- **Responsive Design:** Play the game on various devices with ease.
 
 ## Demo
 
-Experience the power of legal knowledge: [Legal Solutions](https://rockyhaque.github.io/legal-solutions/)
+Experience the power of Rock Paper Scissors: [Rock Paper Scissors](https://rockyhaque.github.io/rock-paper-scissors/)
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- Tailwind
+- JS
+
+## How to Play
+
+1. Open the [Rock Paper Scissors Demo](https://rockyhaque.github.io/rock-paper-scissors/).
+2. Select your choice (Rock, Paper, or Scissors) by clicking the corresponding button.
+3. See the computer's choice.
+4. Find out the result - whether you win, lose, or it's a tie.
+5. Keep playing and track your score!
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or new features to add, feel free to submit a pull request. Please ensure your contributions align with the goals of this repository.
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a pull request.
 
 ---
 
-Thank you for your interest in Legal Solutions! If you encounter any issues or have suggestions, please feel free to [open an issue](https://github.com/your-username/your-repo/issues). Empower yourself with legal knowledge and make informed decisions!
+Thank you for your interest in this Mini Game! If you encounter any issues or have suggestions, please feel free to [open an issue](https://github.com/your-username/your-repo/issues). Empower yourself with legal knowledge and make informed decisions!
